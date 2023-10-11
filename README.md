@@ -1,4 +1,4 @@
-<div align="left">
+<div>
   <h1>A Spooky iOS Word Puzzle App!</h1>
   <img width="50%" height="50%" align="left" src="https://i.pinimg.com/originals/7b/d7/be/7bd7bef6b26ac1e854fb48de685d806a.png"/>
   <img width="25%" height="25%" align="left" src="./preview.png"/>
